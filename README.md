@@ -55,7 +55,10 @@
 
 - Role-based web & mobile platform for managing emergency alerts in real time  
 - Admin dashboard, secure user management, planned Firebase notifications  
-🔗 [GitHub Repo](https://github.com/nzyoka10)
+🔗 [GitHub Repo](https://github.com/nzyoka500/emergency-alert-system)
+
+<!-- Project image -->
+![Responda](./images/responda/home.png)
 
 ### 2️⃣ Database Optimization – Bank Marketing API
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -65,7 +68,10 @@
 
 - Optimized PostgreSQL schema, CRUD RESTful API, automated triggers  
 - Reduced query times: 1.2s → 0.05s, API response: 800ms → 300ms  
-🔗 [GitHub Repo](https://github.com/nzyoka10/database-optimization-project)
+🔗 [GitHub Repo](https://github.com/nzyoka500/database-optimization-project)
+
+<!-- Project image -->
+![Database Project](./images/database/home.png)
 
 ### 3️⃣ Water Billing & Customer Management System
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
@@ -73,7 +79,10 @@
 
 - Billing & customer management system for SMEs  
 - Secure data handling, bill calculations, structured storage  
-🔗 [GitHub Repo](https://github.com/nzyoka10/wbcms)
+🔗 [GitHub Repo](https://github.com/nzyoka500/wbcms)
+
+<!-- Project image -->
+![Water billing](./images/water-billing/home.png)
 
 
 ## GitHub Activity
