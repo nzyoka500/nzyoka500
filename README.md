@@ -68,7 +68,7 @@
 
 - Optimized PostgreSQL schema, CRUD RESTful API, automated triggers  
 - Reduced query times: 1.2s → 0.05s, API response: 800ms → 300ms  
-🔗 [GitHub Repo](https://github.com/nzyoka500/database-optimization-project)
+> **View** [GitHub Repo](https://github.com/nzyoka500/database-optimization-project) 🔗
 
 <!-- Project image -->
 ![Database Project](./images/database/home.png)
@@ -82,7 +82,7 @@
 🔗 [GitHub Repo](https://github.com/nzyoka500/wbcms)
 
 <!-- Project image -->
-![Water billing](./images/water-billing/home.png)
+![Water billing](./images/billing/dashboard.png)
 
 
 ## GitHub Activity
