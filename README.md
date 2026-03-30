@@ -58,7 +58,7 @@
 > **View** [GitHub Repo](https://github.com/nzyoka500/emergency-alert-system) 🔗
 
 <!-- Project image -->
-![Responda](./images/responda/home.png)
+![Responda](./images/responda/dashboard.png)
 
 ### 2️⃣ Database Optimization – Bank Marketing API
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
