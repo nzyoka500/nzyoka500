@@ -55,7 +55,7 @@
 
 - Role-based web & mobile platform for managing emergency alerts in real time  
 - Admin dashboard, secure user management, planned Firebase notifications  
-🔗 [GitHub Repo](https://github.com/nzyoka500/emergency-alert-system)
+> **View** [GitHub Repo](https://github.com/nzyoka500/emergency-alert-system) 🔗
 
 <!-- Project image -->
 ![Responda](./images/responda/home.png)
