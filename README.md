@@ -79,7 +79,7 @@
 
 - Billing & customer management system for SMEs  
 - Secure data handling, bill calculations, structured storage  
-🔗 [GitHub Repo](https://github.com/nzyoka500/wbcms)
+🔗 [GitHub Repo](https://github.com/nzyoka500/water-billing)
 
 <!-- Project image -->
 ![Water billing](./images/billing/dashboard.png)
