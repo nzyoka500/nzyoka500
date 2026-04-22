@@ -1,18 +1,27 @@
 <img src="images/github-header-image.png" alt="GitHub Banner" width="100%" />
 
-> # Hi, I'm Eric Nzyoka 👋
-**Software & Systems Developer | Full-Stack Developer | Backend Enthusiast**
+### Hi, I’m Eric Nzyoka 👋  
+> ICT Officer | Software & Systems Developer | Network & Infrastructure Enthusiast  
 
-- Based in Nairobi, Kenya  
-- Building **robust, scalable, and user-focused systems**  
-- Passionate about solving real-world problems and automating workflows  
+📍 Based in Nairobi, Kenya  
 
+I specialize in ICT systems support, network infrastructure, and full-stack development. I have hands-on experience supporting enterprise IT environments, including network configuration, system maintenance, and ICT operations in both public and private sector settings.  
 
-## Currently Learning
-**Generative AI – Building Generative AI Applications**  
-- Hands-on projects creating text, images, music, and video with AI  
-- Using BCS Jaseci Lab ecosystem for practical experience  
-- Preparing for high-impact AI roles in healthcare, finance, and agriculture  
+My focus is on building and maintaining reliable systems, improving network performance, and supporting digital transformation through practical, scalable solutions.  
+
+## Technical Focus
+- Network infrastructure (LAN/WAN, Wi-Fi, fiber optic systems)  
+- ICT systems installation, support, and maintenance  
+- Server and device troubleshooting  
+- Full-stack web development (PHP, JavaScript, MySQL)  
+- Systems integration and automation  
+
+## Currently Improving
+- Network engineering (CCNA path)  
+- ICT infrastructure security and best practices  
+- Scalable system design and backend optimization  
+
+I enjoy working in environments where technology directly improves efficiency, communication, and service delivery.
 
 
 ## Technologies & Skills
@@ -28,8 +37,19 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white) 
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white) 
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
+---
+
+### 🔹 Networking & ICT Infrastructure
+![Cisco](https://img.shields.io/badge/Networking-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) 
+![LAN/WAN](https://img.shields.io/badge/LAN%2FWAN-Networking-4CAF50?style=for-the-badge) 
+![WiFi](https://img.shields.io/badge/WiFi-Network_Support-FF9800?style=for-the-badge) 
+![Fiber Optics](https://img.shields.io/badge/Fiber_Optics-Splicing%20%26%20Maintenance-9C27B0?style=for-the-badge) 
+![IT Support](https://img.shields.io/badge/ICT_Support-Helpdesk-607D8B?style=for-the-badge) 
+![Troubleshooting](https://img.shields.io/badge/System_Troubleshooting-2E7D32?style=for-the-badge) 
+
+---
 
 ### 🔹 Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -40,8 +60,6 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![XAMPP](https://img.shields.io/badge/XAMPP-007ACC?style=for-the-badge&logo=apachefriends&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Antigravity](https://img.shields.io/badge/Antigravity-FF69B4?style=for-the-badge&logo=python&logoColor=white) 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
 
 
