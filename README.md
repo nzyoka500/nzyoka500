@@ -45,19 +45,8 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
 
 
-## Projects
+## Featured Projects
 
-### 1️⃣ Responda – Community Emergency Alert & Response System
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-
-<<<<<<< HEAD
-- Role-based web & mobile platform for managing emergency alerts in real time  
-- Admin dashboard, secure user management, planned Firebase notifications  
-> **View** [GitHub Repo](https://github.com/nzyoka500/emergency-alert-system) 🔗
-=======
 ### ISP Network Automation Framework (OLT + WAC)
 
 A network automation system designed for ISP infrastructure deployment in Kenya.
@@ -68,7 +57,7 @@ A network automation system designed for ISP infrastructure deployment in Kenya.
   - SSH setup, CAPWAP AP management
   - full ISP deployment workflow with confirmation-based execution.
 
-🔗 [Repository](https://github.com/nzyoka500/isp-network-automation)
+🔗 **View** [project repository](https://github.com/nzyoka500/isp-network-automation)
 
 <details> 
 <summary>CLI Demo image</summary>
@@ -77,15 +66,36 @@ A network automation system designed for ISP infrastructure deployment in Kenya.
 
 </details>
 
+----
+
+### Responda – Community Emergency Alert & Response System
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+- Role-based web & mobile platform for managing emergency alerts in real time  
+- Admin dashboard, secure user management, planned Firebase notifications  
+
+🔗 **View** [project repository](https://github.com/nzyoka500/emergency-alert-system) 
+
+----
+
 ### **HREdge – Smart HR Platform for Kenyan SMEs**
-💼 A Human Resources platform designed for SMEs in Kenya.  
-🚀 Features: Payroll (with M-Pesa), AI recruitment, leave management, chatbot support, and mobile-first design.  
->>>>>>> d1e5f82 (Add: new project)
+
+A Human Resources platform designed for SMEs in Kenya.  
+
+- Features: 
+  - Payroll (with M-Pesa), 
+  - AI recruitment
+  - leave management
+  - chatbot support
+  - Mobile-first design.  
 
 <!-- Project image -->
 ![Responda](./images/responda/dashboard.png)
 
-### 2️⃣ Database Optimization – Bank Marketing API
+### Database Optimization – Bank Marketing API
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
@@ -93,18 +103,20 @@ A network automation system designed for ISP infrastructure deployment in Kenya.
 
 - Optimized PostgreSQL schema, CRUD RESTful API, automated triggers  
 - Reduced query times: 1.2s → 0.05s, API response: 800ms → 300ms  
-> **View** [GitHub Repo](https://github.com/nzyoka500/database-optimization-project) 🔗
+
+**View** [project repository](https://github.com/nzyoka500/database-optimization-project) 🔗
 
 <!-- Project image -->
 ![Database Project](./images/database/home.png)
 
-### 3️⃣ Water Billing & Customer Management System
+### Water Billing & Customer Management System
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 
 - Billing & customer management system for SMEs  
-- Secure data handling, bill calculations, structured storage  
-🔗 [GitHub Repo](https://github.com/nzyoka500/water-billing)
+- Secure data handling, bill calculations, structured storage 
+
+🔗 **View** [project repository](https://github.com/nzyoka500/water-billing)
 
 <!-- Project image -->
 ![Water billing](./images/billing/dashboard.png)
