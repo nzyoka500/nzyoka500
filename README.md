@@ -71,7 +71,7 @@ A network automation system designed for ISP infrastructure deployment in Kenya.
 🔗 [Repository](https://github.com/nzyoka500/isp-network-automation)
 
 <details> 
-<summary>Project CLI image</summary>
+<summary>CLI Demo image</summary>
 
 ![CLI Demo](./images/isp-network/CLI-demo.png)  
 
