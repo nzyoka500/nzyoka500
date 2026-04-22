@@ -59,12 +59,7 @@ A network automation system designed for ISP infrastructure deployment in Kenya.
 
 🔗 **View** [project repository](https://github.com/nzyoka500/isp-network-automation)
 
-<details> 
-<summary>CLI Demo image</summary>
-
-![CLI Demo](./images/isp-network/CLI-demo.png)  
-
-</details>
+![Project CLI image](./images/isp-network/CLI-demo.png)  
 
 ----
 
@@ -78,6 +73,9 @@ A network automation system designed for ISP infrastructure deployment in Kenya.
 - Admin dashboard, secure user management, planned Firebase notifications  
 
 🔗 **View** [project repository](https://github.com/nzyoka500/emergency-alert-system) 
+
+<!-- Project image -->
+![Project image](./images/responda/dashboard.png)
 
 ----
 
@@ -93,7 +91,7 @@ A Human Resources platform designed for SMEs in Kenya.
   - Mobile-first design.  
 
 <!-- Project image -->
-![Responda](./images/responda/dashboard.png)
+![Responda](./images/hr-edge/admin-dashboard.png)
 
 ### Database Optimization – Bank Marketing API
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
