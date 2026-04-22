@@ -49,6 +49,8 @@
 
 ### ISP Network Automation Framework (OLT + WAC)
 
+![Python](https://img.shields.io/badge/Python-3.10-blue) ![Netmiko](https://img.shields.io/badge/Netmiko-SSH%20Automation-green) ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen) ![Environment](https://img.shields.io/badge/Use-ISP%20Deployment%20Tool-orange)
+
 A network automation system designed for ISP infrastructure deployment in Kenya.
 
 - **Features:** 
@@ -110,6 +112,7 @@ A Human Resources platform designed for SMEs in Kenya.
 ### Water Billing & Customer Management System
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 - Billing & customer management system for SMEs  
 - Secure data handling, bill calculations, structured storage 
