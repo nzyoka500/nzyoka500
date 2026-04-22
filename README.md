@@ -13,7 +13,7 @@ My focus is on building and maintaining reliable systems, improving network perf
 - Network infrastructure (LAN/WAN, Wi-Fi, fiber optic systems)  
 - ICT systems installation, support, and maintenance  
 - Server and device troubleshooting  
-- Full-stack web development (PHP, JavaScript, MySQL)  
+- Full-stack development 
 - Systems integration and automation  
 
 ## Currently Improving
