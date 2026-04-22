@@ -53,9 +53,34 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
+<<<<<<< HEAD
 - Role-based web & mobile platform for managing emergency alerts in real time  
 - Admin dashboard, secure user management, planned Firebase notifications  
 > **View** [GitHub Repo](https://github.com/nzyoka500/emergency-alert-system) 🔗
+=======
+### ISP Network Automation Framework (OLT + WAC)
+
+A network automation system designed for ISP infrastructure deployment in Kenya.
+
+- **Features:** 
+  - Automated OLT & WAC configuration
+  - VLAN segmentation, user provisioning
+  - SSH setup, CAPWAP AP management
+  - full ISP deployment workflow with confirmation-based execution.
+
+🔗 [Repository](https://github.com/nzyoka500/isp-network-automation)
+
+<details> 
+<summary>Project CLI image</summary>
+
+![CLI Demo](./images/isp-network/CLI-demo.png)  
+
+</details>
+
+### **HREdge – Smart HR Platform for Kenyan SMEs**
+💼 A Human Resources platform designed for SMEs in Kenya.  
+🚀 Features: Payroll (with M-Pesa), AI recruitment, leave management, chatbot support, and mobile-first design.  
+>>>>>>> d1e5f82 (Add: new project)
 
 <!-- Project image -->
 ![Responda](./images/responda/dashboard.png)
