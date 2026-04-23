@@ -1,144 +1,156 @@
 <img src="images/github-header-image.png" alt="GitHub Banner" width="100%" />
 
-### Hi, I’m Eric Nzyoka 👋  
-> ICT Officer | Software & Systems Developer | Network & Infrastructure Enthusiast  
+# Hi, I’m Eric Nzyoka 👋  
 
-📍 Based in Nairobi, Kenya  
+**Full-Stack Developer | Network & Systems Engineer**  
+ Building scalable ICT infrastructure, automation systems & high-performance applications  
 
-I specialize in ICT systems support, network infrastructure, and full-stack development. I have hands-on experience supporting enterprise IT environments, including network configuration, system maintenance, and ICT operations in both public and private sector settings.  
-
-My focus is on building and maintaining reliable systems, improving network performance, and supporting digital transformation through practical, scalable solutions.  
-
-## Technical Focus
-- Network infrastructure (LAN/WAN, Wi-Fi, fiber optic systems)  
-- ICT systems installation, support, and maintenance  
-- Server and device troubleshooting  
-- Full-stack development 
-- Systems integration and automation  
-
-## Currently Improving
-- Network engineering (CCNA path)  
-- ICT infrastructure security and best practices  
-- Scalable system design and backend optimization  
-
-I enjoy working in environments where technology directly improves efficiency, communication, and service delivery.
+📍 Nairobi, Kenya  
+**Actively Open to Software, Network & ICT Engineering Roles**
 
 
-## Technologies & Skills
 
-### 🔹 Programming & Development
+## What I Bring
+
+-  Automated system deployments reducing manual effort & configuration errors  
+-  Backend optimization to improve performance  
+-  Design & deployment of reliable, scalable ICT systems  
+-  Strong hands-on experience in networking, system support & troubleshooting  
+
+
+
+## Core Expertise
+
+### 1. Software Development
+- Full-stack web development (Frontend + Backend)  
+- REST API design & integration  
+- System automation & scripting  
+- Scalable backend architecture  
+
+### 2. Network & Infrastructure
+- LAN/WAN design & configuration  
+- Wi-Fi deployment & optimization  
+- Fiber optics (installation, splicing, maintenance)  
+- Network troubleshooting & performance tuning  
+
+### 3. ICT Systems & Support
+- System installation & maintenance  
+- Enterprise IT support (public & private sector)  
+- Server & device troubleshooting  
+- Infrastructure reliability & uptime optimization  
+
+
+## Tech Stack
+
+### Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)  
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white) 
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-### 🔹 Networking & ICT Infrastructure
-![Cisco](https://img.shields.io/badge/Networking-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) 
-![LAN/WAN](https://img.shields.io/badge/LAN%2FWAN-Networking-4CAF50?style=for-the-badge) 
-![WiFi](https://img.shields.io/badge/WiFi-Network_Support-FF9800?style=for-the-badge) 
-![Fiber Optics](https://img.shields.io/badge/Fiber_Optics-Splicing%20%26%20Maintenance-9C27B0?style=for-the-badge) 
-![IT Support](https://img.shields.io/badge/ICT_Support-Helpdesk-607D8B?style=for-the-badge) 
-![Troubleshooting](https://img.shields.io/badge/System_Troubleshooting-2E7D32?style=for-the-badge) 
-
----
-
-### 🔹 Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![XAMPP](https://img.shields.io/badge/XAMPP-007ACC?style=for-the-badge&logo=apachefriends&logoColor=white) 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
-
-
-## Featured Projects
-
-### ISP Network Automation Framework (OLT + WAC)
-
-![Python](https://img.shields.io/badge/Python-3.10-blue) ![Netmiko](https://img.shields.io/badge/Netmiko-SSH%20Automation-green) ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen) ![Environment](https://img.shields.io/badge/Use-ISP%20Deployment%20Tool-orange)
-
-A network automation system designed for ISP infrastructure deployment in Kenya.
-
-- **Features:** 
-  - Automated OLT & WAC configuration
-  - VLAN segmentation, user provisioning
-  - SSH setup, CAPWAP AP management
-  - full ISP deployment workflow with confirmation-based execution.
-
-🔗 **View** [project repository](https://github.com/nzyoka500/isp-network-automation)
-
-![Project CLI image](./images/isp-network/CLI-demo.png)  
-
-----
-
-### Responda – Community Emergency Alert & Response System
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
-- Role-based web & mobile platform for managing emergency alerts in real time  
-- Admin dashboard, secure user management, planned Firebase notifications  
 
-🔗 **View** [project repository](https://github.com/nzyoka500/emergency-alert-system) 
+### Networking & ICT
+![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) 
+![LAN/WAN](https://img.shields.io/badge/LAN%2FWAN-Infrastructure-4CAF50?style=for-the-badge) 
+![WiFi](https://img.shields.io/badge/WiFi-Deployment-FF9800?style=for-the-badge) 
+![Fiber](https://img.shields.io/badge/Fiber-Optics-9C27B0?style=for-the-badge) 
+![ICT Support](https://img.shields.io/badge/ICT-Support-607D8B?style=for-the-badge)  
 
-<!-- Project image -->
-![Project image](./images/responda/dashboard.png)
 
-----
-
-### **HREdge – Smart HR Platform for Kenyan SMEs**
-
-A Human Resources platform designed for SMEs in Kenya.  
-
-- Features: 
-  - Payroll (with M-Pesa), 
-  - AI recruitment
-  - leave management
-  - chatbot support
-  - Mobile-first design.  
-
-<!-- Project image -->
-![Responda](./images/hr-edge/admin-dashboard.png)
-
-### Database Optimization – Bank Marketing API
+###  Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4CAF50?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-- Optimized PostgreSQL schema, CRUD RESTful API, automated triggers  
-- Reduced query times: 1.2s → 0.05s, API response: 800ms → 300ms  
+![Git](https://img.shields.io/badge/Git-VersionControl-F05033?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
-**View** [project repository](https://github.com/nzyoka500/database-optimization-project) 🔗
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
+![GCP](https://img.shields.io/badge/GCP-Cloud-F9AB00?style=for-the-badge&logo=googlecloud&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
-<!-- Project image -->
-![Database Project](./images/database/home.png)
 
-### Water Billing & Customer Management System
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
-- Billing & customer management system for SMEs  
-- Secure data handling, bill calculations, structured storage 
+# Featured Projects
 
-🔗 **View** [project repository](https://github.com/nzyoka500/water-billing)
+## 1. Bank Sentinel – Hybrid AI Fraud Detection System
 
-<!-- Project image -->
-![Water billing](./images/billing/dashboard.png)
+**AI-powered financial security platform for Banks, SACCOs & FinTechs**
+
+### Impact
+- Detects **advanced fraud patterns** (smurfing, account takeover)  
+- Enables **real-time intervention** to reduce financial loss  
+- Automates forensic auditing & compliance processes  
+
+### Key Features
+- Hybrid AI (Isolation Forest + Autoencoder)  
+- Real-time detection API (`/api/v1/detect`)  
+- Explainable AI fraud alerts  
+- Audit logs + Excel export  
+- Dockerized deployment  
+
+ **Project repo:** https://github.com/nzyoka500/bank-anomaly-system  
+
+
+## 2. ISP Network Automation Framework
+
+**Automation system for ISP deployment & network provisioning**
+
+### Impact
+- Reduced deployment time & manual configuration errors  
+- Standardized network rollout processes  
+- Improved scalability of ISP infrastructure  
+
+### Key Features
+- OLT & WAC automation  
+- VLAN provisioning  
+- SSH automation (Netmiko)  
+
+ **Project repo:** https://github.com/nzyoka500/isp-network-automation  
+
+
+## 3. Responda – Emergency Alert System
+- Real-time emergency coordination platform  
+- Role-based secure access  
+- Mobile + web support  
+
+ **Project repo:** https://github.com/nzyoka500/emergency-alert-system  
+
+
+## ⚡ 4. Database Optimization – Bank API
+- Query performance: **1.2s → 0.05s**  
+- API response improved to **300ms**  
+- Optimized PostgreSQL schema  
+
+ **Project repo:** https://github.com/nzyoka500/database-optimization-project  
+
+
+## 5. Water Billing System
+- SME billing & customer management  
+- Automated workflows & reporting  
+
+ **Project repo:** https://github.com/nzyoka500/water-billing  
+
+
+## Currently Improving
+- Networking (CCNA Path)  
+- ICT Infrastructure Security  
+- Scalable System Design & Backend Optimization  
+
+
+##  Vision
+Building **reliable systems and infrastructure that power Africa’s digital growth** — from ISPs to SMEs and public sector platforms.
 
 
 ## GitHub Activity
@@ -147,3 +159,18 @@ A Human Resources platform designed for SMEs in Kenya.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nzyoka10/nzyoka10/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/nzyoka10/nzyoka10/output/github-snake.svg" />
 </picture>
+
+
+# Let’s Work Together
+
+ Open to:
+- Software Development roles  
+- Network Engineering roles  
+- ICT Infrastructure roles  
+- Remote & on-site opportunities  
+
+ **Email:** mnzyokaeric@gmail.com  
+ **LinkedIn:** https://linkedin.com/in/ericnzyoka  
+
+
+⭐ *If you find my work valuable, feel free to connect or collaborate.*
