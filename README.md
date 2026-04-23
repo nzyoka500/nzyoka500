@@ -128,7 +128,7 @@
  **Project repo:** https://github.com/nzyoka500/emergency-alert-system  
 
 
-## ⚡ 4. Database Optimization – Bank API
+## 4. Database Optimization – Bank API
 - Query performance: **1.2s → 0.05s**  
 - API response improved to **300ms**  
 - Optimized PostgreSQL schema  
