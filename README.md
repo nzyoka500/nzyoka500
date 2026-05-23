@@ -91,7 +91,7 @@ AI-powered fraud detection platform for Banks, SACCOs & FinTech systems.
 ### Tech Stack
 Python • FastAPI • PostgreSQL • Docker
 
-- **Repo:** https://github.com/nzyoka500/bank-anomaly-system
+- **Demo:** https://rb.gy/1fqcah
 
 ![Dashboard](/images/bank/dashboard.png)
 
