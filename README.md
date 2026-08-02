@@ -1,16 +1,13 @@
 <img src="images/github-header-image.png" alt="GitHub Banner" width="100%" />
 
-# Hi, I’m Eric Nzyoka 👋
+# Hi, I'm Eric Nzyoka 👋
 
-### Full-Stack Software Developer | Backend & Systems Engineer
+### Full-Stack Software Engineer
 
-Building scalable applications, backend systems, automation tools, and reliable digital infrastructure.
+Building software, automation, and backend systems that help businesses run better.
 
-📍 Nairobi, Kenya  
-Passionate about software engineering, backend architecture, cloud systems, and infrastructure automation.
+📍 Nairobi, Kenya
 
-
-# About Me
 
 # About Me
 
