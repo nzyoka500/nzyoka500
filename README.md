@@ -24,15 +24,13 @@ My work includes:
 
 I believe good software should be simple, reliable, and built to last.
 
+## What I Bring
 
-# What I Bring
-
-✔ Backend optimization & scalable API development  
-✔ Infrastructure automation & deployment workflows  
-✔ Reliable networking & ICT systems support  
-✔ Strong troubleshooting & problem-solving skills  
-✔ Practical experience across software + infrastructure environments  
-
+- Build websites and web applications
+- Develop scalable backend systems
+- Turn ideas into working solution
+- Strong teamwork and communication
+- Solve real business problems with technology
 
 
 # Tech Stack
