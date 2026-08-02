@@ -76,6 +76,23 @@ I believe good software should be simple, reliable, and built to last.
 
 # Featured Projects
 
+## FundSwift – Marketplace Frontend
+
+Built the frontend for a service marketplace that helps users find and book trusted service providers.
+
+### Highlights
+- Modern and responsive UI
+- Fast and user-friendly experience
+- Service search interface
+- Mobile-first design
+
+### Tech Stack
+React • Tailwind CSS • JavaScript
+
+- **Demo:** https://rb.gy/1fqcah
+
+![Dashboard](/images/fundi/web.png)
+
 ## Akiba Sentinel
 
 **Helps financial institutions notice unusual account activity early.**
@@ -92,7 +109,7 @@ I believe good software should be simple, reliable, and built to last.
 ### Tech Stack
 Python • FastAPI • PostgreSQL • Docker
 
-- **Demo:** https://rb.gy/1fqcah
+- **Demo:** https://fundiswift-frontend.vercel.app/
 
 ![Dashboard](/images/bank/dashboard.png)
 
