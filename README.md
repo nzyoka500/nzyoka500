@@ -89,7 +89,7 @@ Built the frontend for a service marketplace that helps users find and book trus
 ### Tech Stack
 React • Tailwind CSS • JavaScript
 
-- **Demo:** https://fundiswift-frontend.vercel.app/
+- **Demo:** https://tinyurl.com/yj49n276
 
 ![Dashboard](/images/fundi/web.png)
 
