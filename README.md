@@ -98,15 +98,15 @@ Python • FastAPI • PostgreSQL • Docker
 
 
 
-## ISP Network Automation Framework
+## ISP Network Automation
 
-Automation system for ISP deployment & network provisioning.
+Helps internet service providers set up and manage their networks faster and more consistently.
 
-### Highlights
-- VLAN provisioning automation
-- SSH-based configuration workflows
-- Reduced deployment errors
-- Improved scalability & rollout consistency
+### What It Does
+- Speeds up network setup
+- Reduces manual work
+- Minimizes setup errors
+- Makes it easier to manage network growth
 
 ### Tech Stack
 Python • Netmiko • Cisco Networking
@@ -116,15 +116,15 @@ Python • Netmiko • Cisco Networking
 ![Dashboard](/images/isp-network/CLI-demo.png)
 
 
-## Responda - Emergency Response Platform
+## Responda – Emergency Response Platform
 
-Real-time emergency coordination and response platform.
+A platform that helps emergency teams communicate, coordinate, and respond faster during critical situations.
 
-### Highlights
-- Role-based authentication
-- Backend API integration
-- Responsive dashboard system
-- Mobile & web accessibility
+### What It Does
+- Speeds up emergency response
+- Keeps teams coordinated
+- Works on both mobile and web
+- Makes critical information easy to access
 
 ### Tech Stack
 PHP • MySQL • JavaScript
@@ -134,14 +134,14 @@ PHP • MySQL • JavaScript
 ![Dashboard](/images/responda/dashboard.png)
 
 
-## Database Optimization - Banking API
+## Database Optimization – Banking API
 
-Backend optimization project focused on improving query and API performance.
+Improved a banking database system by making it faster, more reliable, and able to handle requests more efficiently.
 
 ### Results
-- Query optimization: 1.2s → 0.05s
-- API response reduced to 300ms
-- Improved PostgreSQL indexing & schema design
+- Reduced query time from 1.2s to 0.05s
+- Faster API responses
+- Improved overall system performance
 
 ### Tech Stack
 Node.js • Express • PostgreSQL
@@ -173,7 +173,6 @@ Node.js • Express • PostgreSQL
 
 **Email:** mnzyokaeric@gmail.com  
 **LinkedIn:** https://linkedin.com/in/ericnzyoka  
-**GitHub:** https://github.com/nzyoka500
 
 
-I enjoy collaborating on software, backend, infrastructure, and automation projects that solve real-world problems.
+> *I enjoy collaborating on software, backend, infrastructure, and automation projects that solve real-world problems.*
