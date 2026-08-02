@@ -12,16 +12,20 @@ Passionate about software engineering, backend architecture, cloud systems, and 
 
 # About Me
 
-I enjoy building real-world systems that solve practical problems — from backend APIs and automation platforms to scalable infrastructure and network solutions.
+# About Me
 
-My experience combines:
-- Software Engineering
-- Backend Development
-- Infrastructure & Networking
-- System Optimization
-- ICT Operations
+I build systems that help businesses run better.
 
-I focus on writing clean, scalable, and reliable systems with strong performance and maintainability.
+I enjoy solving real-world problems using software, automation, and digital infrastructure.
+
+My work includes:
+- Fullstack Development
+- Web Design & Development
+- Automation
+- Software Solutions
+- IT Infrastructure
+
+I believe good software should be simple, reliable, and built to last.
 
 
 # What I Bring
@@ -77,16 +81,18 @@ I focus on writing clean, scalable, and reliable systems with strong performance
 
 # Featured Projects
 
-## Akiba Sentinel - AI Fraud Detection System
+## Akiba Sentinel
 
-AI-powered fraud detection platform for Banks, SACCOs & FinTech systems.
+**Helps financial institutions notice unusual account activity early.**
 
-### Highlights
-- Hybrid AI detection models
-- Real-time fraud detection API
-- Explainable AI alerts
-- Audit logging & reporting
-- Dockerized deployment
+### What Akiba Does
+
+- Learns normal account activity
+- Notices unusual changes
+- Sends early alerts
+- Supports better decisions
+- Works with your existing system
+
 
 ### Tech Stack
 Python • FastAPI • PostgreSQL • Docker
