@@ -2,40 +2,41 @@
 
 # Hi, I'm Eric Nzyoka 👋
 
-### Full-Stack Software Engineer
+### Software Engineer | IT & Technology
 
-Building software, automation, and backend systems that help businesses run better.
+I build software, support IT systems, and use technology to solve real-world problems.
 
 📍 Nairobi, Kenya
 
+## About Me
 
-# About Me
+I am a software and IT professional with experience building applications, supporting users, managing systems, and working with cloud and infrastructure.
 
-I build systems that help businesses run better.
-
-I enjoy solving real-world problems using software, automation, and digital infrastructure.
+I enjoy learning, solving problems, and turning ideas into useful solutions.
 
 My work includes:
-- Fullstack Development
-- Web Design & Development
-- Automation
-- Software Solutions
-- IT Infrastructure
+- Software & Full-Stack Development
+- Web Applications
+- AI & Automation
+- Cloud & Linux
+- IT Support & Infrastructure
+- Systems Administration
 
-I believe good software should be simple, reliable, and built to last.
+I am open to opportunities where I can learn, contribute, and grow while helping a team solve real problems.
 
-## What I Bring
+## Skills
 
-- Build websites and web applications
-- Develop scalable backend systems
-- Turn ideas into working solution
-- Strong teamwork and communication
-- Solve real business problems with technology
+- Build and maintain software systems
+- Develop websites and web applications
+- Work with backend systems, databases and APIs
+- Support Linux, servers and networks
+- Build AI and automation solutions
+- Troubleshoot technical problems
+- Work well with teams and users
 
 
 # Tech Stack
 
-## Backend & Software Development
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -44,34 +45,49 @@ I believe good software should be simple, reliable, and built to last.
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
-
-
-## Frontend Development
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-## Databases & Cloud
-
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4CAF50?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-Cloud-F9AB00?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-
-## Networking & Infrastructure
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![LAN/WAN](https://img.shields.io/badge/LAN%2FWAN-Infrastructure-4CAF50?style=for-the-badge)
-![WiFi](https://img.shields.io/badge/WiFi-Deployment-FF9800?style=for-the-badge)
-![Fiber](https://img.shields.io/badge/Fiber-Optics-9C27B0?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI%20Automation-FF6F00?style=for-the-badge)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![WHM](https://img.shields.io/badge/WHM-FF6C2C?style=for-the-badge)
+![CloudLinux](https://img.shields.io/badge/CloudLinux-2F6B3C?style=for-the-badge)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-0078D4?style=for-the-badge)
+![LAN/WAN](https://img.shields.io/badge/LAN%2FWAN-Networking-4CAF50?style=for-the-badge)
+![WiFi](https://img.shields.io/badge/WiFi-Networking-FF9800?style=for-the-badge)
+![Fiber Optics](https://img.shields.io/badge/Fiber%20Optics-9C27B0?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-Configuration-607D8B?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-Configuration-607D8B?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![InfinityFree](https://img.shields.io/badge/InfinityFree-Hosting-00A86B?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
 # Featured Projects
