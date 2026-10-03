@@ -76,7 +76,26 @@ I believe good software should be simple, reliable, and built to last.
 
 # Featured Projects
 
-## FundSwift – Marketplace Frontend
+### Safari - Transport Services Marketplace
+
+A digital marketplace that connects customers with transport providers across East Africa. The platform makes it easier for people and businesses to find transport services, send requests, and connect with providers in one place.
+
+### My Contributions
+- Designed and developed the platform from the ground up
+- Built the customer, transport provider, and admin sides
+- Designed the database and main system structure
+- Built service search, requests, and provider management
+- Developed the backend and connected the different parts of the platform
+- Tested and improved the system based on user needs
+
+### Tech Stack
+PHP • MySQL • HTML • CSS • JavaScript
+
+- **View Demo:** https://safari-mvp.ct.ws/
+
+![Safari Platform](images/safari/web.png)
+
+## Marketplace Website User Interface
 
 Built the frontend for a service marketplace that helps users find and book trusted service providers.
 
@@ -89,7 +108,7 @@ Built the frontend for a service marketplace that helps users find and book trus
 ### Tech Stack
 React • Tailwind CSS • JavaScript
 
-- **Demo:** https://tinyurl.com/yj49n276
+- **View Demo:** https://tinyurl.com/yj49n276
 
 ![Dashboard](/images/fundi/web.png)
 
@@ -109,7 +128,7 @@ React • Tailwind CSS • JavaScript
 ### Tech Stack
 Python • FastAPI • PostgreSQL • Docker
 
-- **Demo:** https://fundiswift-frontend.vercel.app/
+- **View Demo:** N/A
 
 ![Dashboard](/images/bank/dashboard.png)
 
